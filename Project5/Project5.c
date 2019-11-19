@@ -1,11 +1,5 @@
 /*
  * This program implements a selection sort algorithm in C and inline assembly language for an array of small int values.
- *
- * Spencer Peace
- * CSC 362-001
- * Dr. Richard Fox
- * 11/15/19
- * Project 5
  */
 
 #define _CRT_SECURE_NO_WARNINGS
